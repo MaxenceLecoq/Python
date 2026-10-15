@@ -1,0 +1,7 @@
+prenom = input("Entrez votre prenom : ")
+age = int (input("Entrez votre âge : "))
+taille = int (input("Entrez votre taille en cm : "))
+agefutur = (age + 5)
+print("Bonjour", prenom, "!")
+print("Dans 5 ans vous aurez", age, "ans")
+print("Votre taille est de", taille, "cm")
